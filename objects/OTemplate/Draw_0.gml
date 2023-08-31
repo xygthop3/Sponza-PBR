@@ -9,11 +9,11 @@ gpu_set_tex_repeat(true);
 draw_clear(c_black);
 camera_apply(camera);
 
-
+/*
 gpu_set_tex_mip_filter(tf_point);
 gpu_set_tex_filter_ext(sampCubemap, tf_point);
 gpu_set_tex_mip_enable_ext(sampCubemap, false);
-
+*/
 
 shader_set(ShPassthrough);
 
@@ -56,6 +56,6 @@ shader_set(ShPassthrough);
   matrix_set(matrix_world, matrix_build_identity());
 shader_reset();
 
-gpu_set_tex_mip_filter(tf_anisotropic);
+//gpu_set_tex_mip_filter(tf_anisotropic);
 
 gpu_pop_state();
