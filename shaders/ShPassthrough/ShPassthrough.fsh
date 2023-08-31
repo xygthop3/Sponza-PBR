@@ -25,7 +25,6 @@ static const float PI = 3.141592;
 uniform float4 uni_Camera_Position_Pixel;
 
 ////Texture Samples
-/////////WARNING - if you're using the new BETA with the GMS2VM runtime, the HLSL texture samples seem to have changed or are broken. Use GMS v2023.6.0.92 or lower.
 //1 - texNormalMap
 Texture2D texNormalMap   : register(t1);
 SamplerState samp_Normal : register(s1);
