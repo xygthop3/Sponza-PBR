@@ -1,0 +1,304 @@
+# Blender MTL File: 'None'
+# Material Count: 25
+
+newmtl Material__25
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/lion.png
+map_Pmr textures/lion_MetallicRoughness.jpg
+norm textures/lion_ddn.png
+
+newmtl Material__298
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/background.png
+map_Pmr textures/background_MetallicRoughness.jpg
+norm textures/background_ddn.png
+
+newmtl Material__47
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+
+
+newmtl Material__57
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/vase_plant.png
+map_Pmr textures/vase_plant_MetallicRoughness.jpg
+norm textures/vase_plant_NRM.png
+
+newmtl arch
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_arch_diff.png
+map_Pmr textures/sponza_arch_MetallicRoughness.jpg
+norm textures/sponza_arch_diff_NRM.png
+
+newmtl bricks
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/spnza_bricks_a_diff.png
+map_Pmr textures/spnza_bricks_a_MetallicRoughness.jpg
+norm textures/spnza_bricks_a_ddn.png
+
+newmtl ceiling
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_ceiling_a_diff.png
+map_Pmr textures/sponza_ceiling_a_MetallicRoughness.jpg
+norm textures/sponza_ceiling_a_diff_NRM.png
+
+newmtl chain
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/chain_texture.png
+map_Pmr textures/chain_texture_MetallicRoughness.jpg
+norm textures/chain_texture_ddn.png
+
+newmtl column_a
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_column_a_diff.png
+map_Pmr textures/sponza_column_a_MetallicRoughness.jpg
+norm textures/sponza_column_a_ddn.png
+
+newmtl column_b
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_column_b_diff.png
+map_Pmr textures/sponza_column_b_MetallicRoughness.jpg
+norm textures/sponza_column_b_ddn.png
+
+newmtl column_c
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_column_c_diff.png
+map_Pmr textures/sponza_column_c_MetallicRoughness.jpg
+norm textures/sponza_column_c_ddn.png
+
+newmtl details
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_details_diff.png
+map_Pmr textures/sponza_details_MetallicRoughness.jpg
+norm textures/sponza_details_diff_NRM.png
+
+newmtl fabric_a
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_fabric_diff.png
+map_Pmr textures/sponza_fabric_MetallicRoughness.jpg
+norm textures/sponza_fabric_blue_diff_NRM.png
+
+newmtl fabric_c
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_curtain_diff.png
+map_Pmr textures/sponza_curtain_MetallicRoughness.jpg
+norm textures/sponza_curtain_blue_diff_NRM.png
+
+
+newmtl fabric_d
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_fabric_blue_diff.png
+map_Pmr textures/sponza_fabric_MetallicRoughness.jpg
+norm textures/sponza_fabric_blue_diff_NRM.png
+
+
+newmtl fabric_e
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_fabric_green_diff.png
+map_Pmr textures/sponza_fabric_MetallicRoughness.jpg
+norm textures/sponza_fabric_blue_diff_NRM.png
+
+
+newmtl fabric_f
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_curtain_green_diff.png
+map_Pmr textures/sponza_curtain_MetallicRoughness.jpg
+norm textures/sponza_curtain_blue_diff_NRM.png
+
+newmtl fabric_g
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_curtain_blue_diff.png
+map_Pmr textures/sponza_curtain_MetallicRoughness.jpg
+norm textures/sponza_curtain_blue_diff_NRM.png
+
+
+newmtl flagpole
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_flagpole_diff.png
+map_Pmr textures/sponza_flagpole_MetallicRoughness.jpg
+norm textures/sponza_flagpole_diff_NRM.png
+
+newmtl floor
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_floor_a_diff.png
+map_Pmr textures/sponza_floor_a_MetallicRoughness.jpg
+norm textures/sponza_floor_a_diff_NRM.png
+
+newmtl leaf
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/sponza_thorn_diff.png
+map_Pmr textures/sponza_thorn_MetallicRoughness.jpg
+norm textures/sponza_thorn_ddn.png
+
+newmtl roof
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/sponza_roof_diff.png
+map_Pmr textures/sponza_roof_MetallicRoughness.jpg
+norm textures/sponza_roof_diff_NRM.png
+
+newmtl vase
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/vase_dif.png
+map_Pmr textures/vase_MetallicRoughness.jpg
+norm textures/vase_ddn.png
+
+newmtl vase_hanging
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/vase_hanging.png
+map_Pmr textures/vase_hanging_MetallicRoughness.jpg
+norm textures/vase_hanging_NRM.png
+
+newmtl vase_round
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/vase_round.png
+map_Pmr textures/vase_round_MetallicRoughness.jpg
+norm textures/vase_round_ddn.png
